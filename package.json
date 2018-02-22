@@ -1,6 +1,6 @@
 {
   "name": "react-minimal-error-boundary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal React error boundary component for React 16+",
   "main": "index.js",
   "module": "es/index.js",
