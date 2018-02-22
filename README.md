@@ -39,7 +39,7 @@ import ErrorBoundary from 'react-minimal-error-boundary';
 
 © sugarshin
 
-[circleci-image]: https://circleci.com/gh/sugarshin/react-minimal-error-boundary/tree/master.svg?style=svg&circle-token=2cbb475f9880e574e1c8b6026b8cc90d3c550fc0
+[circleci-image]: https://circleci.com/gh/sugarshin/react-minimal-error-boundary/tree/master.svg?style=svg&circle-token=04f8cf60eb194b0708f7f5e7ff31819ebb3941d1
 [circleci-url]: https://circleci.com/gh/sugarshin/react-minimal-error-boundary/tree/master
 [codecov-image]: https://codecov.io/gh/sugarshin/react-minimal-error-boundary/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/sugarshin/react-minimal-error-boundary
