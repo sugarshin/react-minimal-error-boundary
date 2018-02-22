@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { ErrorBoundaryFallbackComponent } from 'react-error-boundary'
 import PropTypes from 'prop-types'
-import { noop } from 'lodash'
+import noop from 'lodash.noop'
 
 export default class MinimalErrorBoundary extends Component {
   static propTypes = {
