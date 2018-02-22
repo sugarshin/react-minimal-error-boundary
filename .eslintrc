@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:ava/recommended"
+  ],
+  "plugins": ["babel", "react", "ava"],
+  "parser": "babel-eslint",
+  "env": {
+    "node": true,
+    "browser": true
+  },
+  "rules": {
+    "babel/new-cap": 1,
+    "babel/no-invalid-this": 1,
+    "semi": [2, "never"],
+    "comma-dangle": [2, {
+      "arrays": "always-multiline",
+      "objects": "always-multiline",
+      "imports": "never",
+      "exports": "never",
+      "functions": "always-multiline"
+    }]
+  }
+}
